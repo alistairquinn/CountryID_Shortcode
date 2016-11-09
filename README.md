@@ -1,4 +1,4 @@
-# Currency Conversion Shortcode
+# Country ID Shortcode
 This WordPress shortcode has been created to convert country ID's to the countries name. It was orginally developed to convert the ID supplied in the Star XML feed.
 
 ## Install
